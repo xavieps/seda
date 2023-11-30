@@ -9,3 +9,4 @@
 .\obj\tp_simple.o: ..\Libraries\TouchPanel\TouchPanel.h
 .\obj\tp_simple.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
 .\obj\tp_simple.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\obj\tp_simple.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\Math.h
